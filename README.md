@@ -1,1 +1,4 @@
 # AIProject
+**Abstract:** This project uses the Bank Marketing dataset from UCI Machine Learning Repository to analyze the different algorithm performances to solve the problem of finding the client subscription to a term deposit. Based on analysis of different algorithm performed in the Jupiter Notebook, the Light Gradient Boosting Machine algorithm perform at best. As this dataset is imbalanced so I use this dataset without changing its configuration to verify the performance of the different algorithms. To solve the problem of the project, the pycaret machine learning library is used to perform all calculations. Results show that the AUC values for all algorithm are almost the same but Light Gradient Boosting Machine, Gradient Boosting Classifier, and Ada Boost Classifier holds the highest value for AUC. On the other hand, the value of F1 is highest for Random Forest Classifier, and Light Gradient Boosting Machine. 
+**URL for video**
+https://youtu.be/Qumqwe0KNLA
